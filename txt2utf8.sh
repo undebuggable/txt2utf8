@@ -24,6 +24,8 @@ function requirements ()
 {
     type file
     type iconv
+    type dos2unix
+    type enca
 }
 
 function args_validate ()
